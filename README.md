@@ -11,5 +11,5 @@
 ## Мои контакты:
 Mail - stas.liseenko@yahoo.com  
 Telegram - [ссылка](https://t.me/stalise1)  
-LinkedIn - [ссылка](https://www.linkedin.com/in/s-liseenko) 
+LinkedIn - [ссылка](https://www.linkedin.com/in/s-liseenko/)
 
