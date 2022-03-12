@@ -4,7 +4,8 @@
 * ⚙️ Работаю над проектом - [Clever-Shop](https://github.com/StaliseDev/training-shop).
 * 🧠 Изучаю технологию - TypeScript.
 
-[![codewars](https://www.codewars.com/users/Stalise/badges/large)](https://www.codewars.com/users/Stalise)  
+[![codewars](https://www.codewars.com/users/Stalise/badges/large)](https://www.codewars.com/users/Stalise)
+
 ## Основные технологии:
 ![html5](./images/html5_logo.png)![html5](./images/css3_logo.png) ![html5](./images/js_icon.png) ![html5](./images/react_icon.png)
 #### Дополнительные технологии и инструменты:
