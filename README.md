@@ -1,8 +1,5 @@
 ## Привет всем! 🖐
-* 👶 Я начинающий фронтенд-разработчик из Беларуси.
-* 🚀 Мой последний проект - [React-Weather](https://github.com/Stalise/React-Weather).
-* ⚙️ Работаю над проектом - [Clever-Shop](https://github.com/StaliseDev/training-shop).
-* 🧠 Изучаю технологию - TypeScript.
+* 👨‍💻 Я фронтенд-разработчик из Беларуси.
 
 [![codewars](https://www.codewars.com/users/Stalise/badges/large)](https://www.codewars.com/users/Stalise)
 
